@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.webp" alt="A couple unpacking a Ruokaboksi meal box in their kitchen" width="700" />
+<img src="./hero.webp" alt="A couple unpacking a Ruokaboksi meal box in their kitchen" width="400" />
 
 # Ruokaboksi / Yummy
 
